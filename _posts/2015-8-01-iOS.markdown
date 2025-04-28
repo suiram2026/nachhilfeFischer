@@ -1,0 +1,41 @@
+---
+layout: default
+categories: project
+modal-id: 18
+date: 2013-07-14
+img: swift.png
+alt: image-alt
+project-date: August 2023
+client: NA
+category: iOS Swift Development
+description: iOS App Development
+---
+
+## CS193 Videotaped Courses at Stanford
+
+Since 2010, I have regularly followed the CS193p class at Stanford.  Understanding iOS development helps me keep at the forefront of state of the art software development paradgims.  I started with learning about Objective C program and Model-View-Controller software development process, to learning about Swift and SwiftUI and functional program.  Some of the projects are below.
+
+### Calculator
+
+[![name](link to image on GH)](link to your URL)
+
+https://github.com/albertjordan/Calculator
+
+
+
+### Calculator
+
+
+### Memorize
+Most recent CS193 courses have begun to dive into SwiftUI and funcitonal programming.  Here is the latest class project with a memory game, where the user is given a deck of cards and the objective is to match two cards with the same image.
+https://github.com/albertjordan/Memorize2023
+
+
+## Work Projects
+
+Some of the projects I have done that leverage Objective C devepment include automotated test framework for a visual voicemail service deployed at Sprint, a video communication automated video quality test bend.  
+
+For the visual voicemail, I created a automated test framewoked that leveraged Skype and an amazon voice to text service. The framework would generate call using skype, where by date stamps and a sample message would be send to a number.  Connecting to an Android phone thru the adb interface, the framework would ensure voicemail were received in the right order, correctly and accurately.
+
+For the video quality test framework, I developed a test framewok whereby two Android phones were connected thru adb.  One of the phones would initiate a video call to the other phones.  Both phones were connected via Wi-Fi access point on a mac.  Then the data rate within the Mac Router would be managed to inject errors, or throttle the bandwidth, and framework would monitor the Frame Error Rate at the receiving Android phone via ADB to ensure they met an accessptable user experience criteria (frame rate with acceptable error rate).
+
