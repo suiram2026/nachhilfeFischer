@@ -2,10 +2,11 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: Root canal-1.png
+title: "Root Canal"
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Root canal treatment helps save a damaged or infected tooth by removing the infected pulp and sealing it to prevent further decay. It’s a safe and effective procedure that relieves pain while preserving your natural tooth structure. Our gentle, precise approach ensures minimal discomfort and long-lasting results — restoring your tooth’s health, strength, and function.
 ---

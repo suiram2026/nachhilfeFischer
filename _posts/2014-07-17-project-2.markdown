@@ -2,10 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: Dental Implants.png
+title: "Dental Implants"
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Dental implants are a long-lasting and natural-looking solution to replace missing teeth. They act as artificial tooth roots made of biocompatible titanium, providing a strong foundation for crowns, bridges, or dentures. Our implant treatments are designed for stability, comfort, and aesthetics — helping you eat, speak, and smile with renewed confidence.
 ---

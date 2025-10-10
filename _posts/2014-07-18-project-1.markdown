@@ -1,11 +1,36 @@
 ---
+#layout: default
+#modal-id: 1
+#date: 2014-07-18
+#img: Braces.png
+#alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+#description: A confident smile starts with well-aligned teeth. Our orthodontic treatments use advanced braces and aligner systems to gently #move your teeth into the right position, improving both appearance and bite function. Whether you need traditional metal braces, ceramic #options, or clear aligners, our customized treatment plans ensure comfort, precision, and long-lasting results.
+#Benefits:
+#- Corrects crooked or crowded teeth
+#- Improves bite alignment and oral health
+#- Boosts confidence with a beautiful smile
+#Duration: 6 months to 2 years (depending on individual cases)
+#Consultation: Includes smile assessment and personalized treatment plan
+
+
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2025-10-09
+img: Braces.png
+alt: "Braces illustration"
+title: "Braces (Orthodontic Treatment)"
+#category: "Orthodontic Treatment"
+description: >
+  A confident smile starts with well-aligned teeth. Our orthodontic treatments use advanced braces and aligner systems to gently move your teeth into the right position, improving both appearance and bite function. Whether you need traditional metal braces, ceramic options, or clear aligners, our customized treatment plans ensure comfort, precision, and long-lasting results.
+
+benefits:
+  - Corrects crooked or crowded teeth
+  - Improves bite alignment and oral health
+  - Boosts confidence with a beautiful smile
+
+duration: "6 months to 2 years (depending on individual cases)"
+consultation: "Includes smile assessment and personalized treatment plan"
 ---

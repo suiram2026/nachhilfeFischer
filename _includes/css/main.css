@@ -482,3 +482,39 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* ---------- Safe navbar/logo adjustments ---------- */
+
+/* size the logo image */
+.navbar-brand img {
+  height: 70px;        /* adjust this number to resize */
+  max-height: 70px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: -15px;
+}
+
+/* ensure navbar has enough height for larger logo */
+.navbar {
+  min-height: 90px;
+}
+
+/* align menu items vertically with logo */
+.navbar-nav > li > a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  line-height: 1;
+}
+
+/* smaller adjustments on mobile */
+@media (max-width: 767px) {
+  .navbar-brand img {
+    height: 48px;
+    max-height: 48px;
+  }
+  .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}

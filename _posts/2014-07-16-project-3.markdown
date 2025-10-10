@@ -2,10 +2,11 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: Dental Scaling and Polishing.png
+title: "Dental Scaling and Polishing"
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Dental scaling and polishing help keep your teeth clean, healthy, and free from plaque and tartar buildup. This professional cleaning procedure removes deposits that regular brushing can’t reach, preventing gum disease and maintaining fresh breath. Our gentle and precise approach ensures a smooth, polished finish — leaving your teeth feeling cleaner, brighter, and healthier.
 ---
