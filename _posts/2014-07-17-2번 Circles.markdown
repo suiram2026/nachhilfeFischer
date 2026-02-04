@@ -1,0 +1,69 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: 2nd.png
+alt: image-alt
+description: <으마카세>
+             <br>영어로는 Youth라는 가슴 뛰는 단어
+             <br>한자 뜻은 푸를 청 봄 춘인데
+             <br>내 청춘의 색은 많이 어두웠네
+             <br>푸르기보단 검게 칠했었네
+             <br>멋모르고 샴페인 먼저 터트렸고
+             <br>레드카펫 포토존 포즈 잡고
+             <br>그런 날이 올까 턱시도
+             <br>그런 날이 올까 혹시 또
+             <br>다시 올 수 있을까 나의 봄은
+             <br>다시 올 수 있을까 나의 너는
+             <br>두려움 때문에 잃어버린 보물
+             <br>넘어질까 비틀대며 걸었던 서른
+             <br>즈음엔 세상 끝났다 말했네
+             <br>돌아보니 서른 참 어린데
+             <br>Don't think about it too much, yeah
+             <br>Live your life, 오직 널 위해
+             <br>
+             <br>'<'Ssongki'>'
+             <br>Feel it, Feel it, Feel it 채우고 채워도
+             <br>맨날 부족하기만 해 지금 뭘 해도
+             <br>난 어제 깨달았지 It's impossible
+             <br>난 어제 깨달았지 It's impossible
+             <br>시간은 돌고 돌아 흘러 도레미파솔라시 다시 도
+             <br>Already know already know
+             <br>I know you'll go through it again
+             <br>
+             <br>'<'Keslit G'>'
+             <br>청춘의 중간인 줄 알았지
+             <br>8년 전 그땐 고작 스물넷인데
+             <br>애 늙은인 줄 알았지만 다시 생각해 보니 난 그냥
+             <br>애였을 뿐이지 it ain't no easy
+             <br>but 시간이 지나 맞닥뜨려 위기
+             <br>오히려 내 치기 어린 생각들은
+             <br>갈수록 진해져 가고만 있지 Oh
+             <br>8년 전이 아닌 지금이 청춘의 중간이라는 말은 절대 아녀
+             <br>그런 뻔한 클리셰 따위 부숴버리는 게 내가 느낀 청춘이란 단어
+             <br>숫자 따위 전혀 중요하지 않어 나이 생각 같은 거 하지 않고 살어
+             <br>틀에서 벗어나 자유롭게 생각하고 사는 건 언제나 아름다워
+             <br>
+             <br><Ssongki>
+             <br>Feel it, Feel it, Feel it 채우고 채워도
+             <br>맨날 부족하기만 해 지금 뭘 해도
+             <br>난 어제 깨달았지 It's impossible
+             <br>난 어제 깨달았지 It's impossible
+             <br>시간은 돌고 돌아 흘러 도레미파솔라시 다시 도
+             <br>Already know already know
+             <br>I know you'll go through it again
+             <br>
+             <br><하마립스>
+             <br>36살의 바이브 가장이란 삶 육아대디 타이틀
+             <br>청춘의 중간은 찰나에 지나가 잡을 수는 없지 먹어가는 나이를
+             <br>때론 그립기도 해 20대의 열정 이젠 내 가족만이 나의 삶의 원천
+             <br>Don't be faster cuz I'm not master
+             <br>내 템포에 맞춰가 한 걸음 물러서
+             <br>청춘은 코르셋 좀 더 아름답기 위해
+             <br>수반하는 불편함을 견뎌내
+             <br>좌절과 슬픔을 끊임없이 디깅해
+             <br>보란 듯이 만들어 너만의 프리셋
+             <br>Life goes on and I'll still my way
+             <br>Ain't nobody push me to get your fxxk aim
+             <br>더는 긴말하지 않겠어 10년 후에 또 보자구 중년이 돼서
+---

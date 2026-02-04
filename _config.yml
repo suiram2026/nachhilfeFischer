@@ -1,11 +1,14 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: 2023 '청춘'이 '청춘'에게
+email: junsu0529@gmail.com
+url: https://junsu0529.github.io/
+description: 청춘인 사람들, 청춘이었던 사람들, 이제 청춘일 모든 사람들 중 한 명의 청춘인 당신을 초대합니다. 
+keywords: "청춘, 도전"
+skills: "청춘이란 인생의 어떤 기간이 아니라 마음의 상태를 말한다.<br><br>
+         '청춘'이라는 주제로 음감회, 상영회를 진행합니다.<br>
+         (1) 음감회: [앨범명] 착륙 버튼 없는 여행 (6 Track)<br> 
+         (2) 상영회: [영화제목] 무인사진관"
+meta_author: Junsu Lee
 
 # Google webmaster tools
 google_verify:
@@ -32,31 +35,29 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
+  copyright: Junsu Lee
+  location: Date & Location
+  social: Visit Us More
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: https://www.instagram.com/kooooo_koo
+  - title: youtube
+    url: https://www.youtube.com/@u_makase
+  - title: youtube
+    url: https://www.youtube.com/@visualpoemeyes
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/junsu0529
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 2023. 10. 13. (금), 19:30 ~ 21:00
+  - line: 홍대 스페이스M (마포구 양화로15길 17)
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '<착륙 버튼 없는 여행><br>하마립스 으마카세 쏭해<br><br><무인 사진관><br>구경석<br>이문주 윤정 이재성'
 
 # Build settings
 markdown: kramdown
