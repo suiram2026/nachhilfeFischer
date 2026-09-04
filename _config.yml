@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Nachhilfe Marius Fischer
+email: marius-fischer30@gmx.de
 url: https://jeromelachaud.com/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Nachhilfe in Mathe & Elektrotechnik für Schüler und Berufsschüler – verständliche Erklärungen, praxisnahe Beispiele und gezielte Prüfungsvorbereitung. Unterricht persönlich oder online."
+keywords: "yMathe Nachhilfe, Elektrotechnik Nachhilfe, Nachhilfe Paderborn, Nachhilfe Lippstadt, Nachhilfe Owl, Abitur Mathe, Berufsschule Elektrotechnik, Online Nachhilfe, Prüfungsvorbereitung Mathe, Prüfungsvorbereitung Elektrotechnik, technische Nachhilfe"
+skills: "Elektrotechnik‑Master, Mathe‑Experte, Entwicklungsingenieur Elektrotechnik, Hardwareentwicklung, Nachhilfe bis Abitur & Berufsschule, verständliche Erklärungen, praxisnahe Beispiele"
+meta_author: Fischer Marius
 
 # Google webmaster tools
 google_verify:
