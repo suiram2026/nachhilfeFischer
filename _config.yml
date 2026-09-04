@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Nachhilfe Marius Fischer
+email: marius-fischer30@gmx.de
+url: https://jeromelachaud.com/freelancer-theme
+description: "Nachhilfe in Mathe & Elektrotechnik für Schüler und Berufsschüler – verständliche Erklärungen, praxisnahe Beispiele und gezielte Prüfungsvorbereitung. Unterricht persönlich oder online."
+keywords: "yMathe Nachhilfe, Elektrotechnik Nachhilfe, Nachhilfe Paderborn, Nachhilfe Lippstadt, Nachhilfe Owl, Abitur Mathe, Berufsschule Elektrotechnik, Online Nachhilfe, Prüfungsvorbereitung Mathe, Prüfungsvorbereitung Elektrotechnik, technische Nachhilfe"
+skills: "Elektrotechnik‑Master, Mathe‑Experte, Entwicklungsingenieur Elektrotechnik, Hardwareentwicklung, Nachhilfe bis Abitur & Berufsschule, verständliche Erklärungen, praxisnahe Beispiele"
+meta_author: Fischer Marius
 
 # Google webmaster tools
 google_verify:
@@ -39,21 +39,25 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: kleinanzeigen
+    url: https://www.kleinanzeigen.de/s-anzeige/mathe-elektrotechnik-nachhilfe-bis-abitur-berufsschule-/3496955478-268-2158
+  - title: google 
+    url: https://maps.app.goo.gl/bLDHF7RZEiAJiZJM7
+ # - title: twitter
+ #   url: http://twitter.com/jekyllrb
+ # - title: facebook
+ #   url:
+ # - title: stack-overflow
+ #  url: http://stackoverflow.com/questions/tagged/jekyll
+ # - title: bitbucket
+ #   url: http://bitbucket.org/jekyll
+ # - title: github
+ #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Widukindstraße 21
+  - line: 33098 Paderborn
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
