@@ -1,10 +1,10 @@
 # Site settings
-title: Nachhilfe Marius Fischer
+title: Nachhilfe Mathe und Elektrotechnik
 email: marius-fischer30@gmx.de
 url: https://jeromelachaud.com/freelancer-theme
 description: "Nachhilfe in Mathe & Elektrotechnik für Schüler und Berufsschüler – verständliche Erklärungen, praxisnahe Beispiele und gezielte Prüfungsvorbereitung. Unterricht persönlich oder online."
 keywords: "yMathe Nachhilfe, Elektrotechnik Nachhilfe, Nachhilfe Paderborn, Nachhilfe Lippstadt, Nachhilfe Owl, Abitur Mathe, Berufsschule Elektrotechnik, Online Nachhilfe, Prüfungsvorbereitung Mathe, Prüfungsvorbereitung Elektrotechnik, technische Nachhilfe"
-skills: "Elektrotechnik‑Master, Mathe‑Experte, Entwicklungsingenieur Elektrotechnik, Hardwareentwicklung, Nachhilfe bis Abitur & Berufsschule, verständliche Erklärungen, praxisnahe Beispiele"
+skills: "Elektrotechnik‑Master, Mathe‑Experte, Entwicklungsingenieur Elektrotechnik,  Nachhilfe bis Abitur & Berufsschule, verständliche Erklärungen, praxisnahe Beispiele"
 meta_author: Fischer Marius
 
 # Google webmaster tools
@@ -33,8 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
+  location: Ort
+  social: Links
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
