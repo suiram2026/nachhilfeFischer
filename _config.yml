@@ -42,8 +42,8 @@ footer:
 social:
   - title: kleinanzeigen
     url: https://www.kleinanzeigen.de/s-anzeige/mathe-elektrotechnik-nachhilfe-bis-abitur-berufsschule-/3496955478-268-2158
-  - title: google 
-    url: https://maps.app.goo.gl/bLDHF7RZEiAJiZJM7
+  #- title: google 
+  #  url: https://maps.app.goo.gl/bLDHF7RZEiAJiZJM7
  # - title: twitter
  #   url: http://twitter.com/jekyllrb
  # - title: facebook
@@ -57,7 +57,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Widukindstraße 21
+ # - line: Straße
   - line: 33098 Paderborn
 
 # Credits content
