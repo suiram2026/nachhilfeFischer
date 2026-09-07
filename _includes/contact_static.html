@@ -1,15 +1,35 @@
 <!-- Contact Section -->
 <section id="contact">
   <div class="container">
+
+    <!-- Titel -->
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Contact Me</h2>
+        <h2>Preise & Kontakt</h2>
         <hr class="star-primary">
       </div>
     </div>
+
+    <!-- Preistext -->
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <p style="font-size: 18px;">
+          <strong>Meine Nachhilfe kostet 22 € pro Stunde.</strong><br><br>
+          Der Preis ergibt sich aus meiner fachlichen Qualifikation als Elektrotechnik‑Master und meiner langjährigen 
+          Erfahrung in der technischen Praxis sowie der individuellen, verständlichen Vermittlung komplexer Inhalte. 
+          Nachhilfe ist eine Investition in die eigene Zukunft: bessere Noten, mehr Sicherheit im Unterricht und ein 
+          nachhaltiges Verständnis, das auch später im Studium oder Beruf weiterhilft.  
+          Ich lege großen Wert auf eine angenehme Lernatmosphäre, geduldige Erklärungen und praxisnahe Beispiele, 
+          damit du langfristig davon profitierst.
+        </p>
+      </div>
+    </div>
+
+    <!-- Kontaktformular -->
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2">
         <form action="//formspree.io/{{ site.email }}" method="POST" name="sentMessage" id="contactForm" novalidate>
+
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="name">Name</label>
@@ -18,6 +38,7 @@
               <p class="help-block text-danger"></p>
             </div>
           </div>
+
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="email">Email Address</label>
@@ -26,10 +47,12 @@
               <p class="help-block text-danger"></p>
             </div>
           </div>
+
           <div>
             <input type="hidden" name="_subject" value="New submission!">
             <input type="text" name="_gotcha" style="display:none" />
           </div>
+
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="message">Message</label>
@@ -38,15 +61,19 @@
               <p class="help-block text-danger"></p>
             </div>
           </div>
+
           <br>
           <div id="success"></div>
+
           <div class="row">
             <div class="form-group col-xs-12">
               <button type="submit" class="btn btn-success btn-lg">Send</button>
             </div>
           </div>
+
         </form>
       </div>
     </div>
+
   </div>
 </section>
