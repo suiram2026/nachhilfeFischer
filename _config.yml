@@ -3,7 +3,7 @@ title: Nachhilfe Marius Fischer
 email: marius-fischer30@gmx.de
 url: https://jeromelachaud.com/freelancer-theme
 description: "Nachhilfe in Mathe & Elektrotechnik für Schüler und Berufsschüler – verständliche Erklärungen, praxisnahe Beispiele und gezielte Prüfungsvorbereitung. Unterricht persönlich oder online."
-keywords: "yMathe Nachhilfe, Elektrotechnik Nachhilfe, Nachhilfe Paderborn, Nachhilfe Lippstadt, Nachhilfe Owl, Abitur Mathe, Berufsschule Elektrotechnik, Online Nachhilfe, Prüfungsvorbereitung Mathe, Prüfungsvorbereitung Elektrotechnik, technische Nachhilfe"
+keywords: "Mathe Nachhilfe, Elektrotechnik Nachhilfe, Nachhilfe Paderborn, Nachhilfe Lippstadt, Nachhilfe Owl, Abitur Mathe, Berufsschule Elektrotechnik, Online Nachhilfe, Prüfungsvorbereitung Mathe, Prüfungsvorbereitung Elektrotechnik, technische Nachhilfe, Mathematik"
 skills: "Elektrotechnik‑Master, Mathe‑Experte, Entwicklungsingenieur Elektrotechnik, Hardwareentwicklung, Nachhilfe bis Abitur & Berufsschule, verständliche Erklärungen, praxisnahe Beispiele"
 meta_author: Fischer Marius
 
@@ -41,8 +41,8 @@ footer:
 social:
   - title: kleinanzeigen
     url: https://www.kleinanzeigen.de/s-anzeige/mathe-elektrotechnik-nachhilfe-bis-abitur-berufsschule-/3496955478-268-2158
-  - title: google 
-    url: https://maps.app.goo.gl/bLDHF7RZEiAJiZJM7
+  #- title: google 
+  #  url: https://maps.app.goo.gl/bLDHF7RZEiAJiZJM7
  # - title: twitter
  #   url: http://twitter.com/jekyllrb
  # - title: facebook
@@ -56,7 +56,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Widukindstraße 21
+  #- line: street
   - line: 33098 Paderborn
 
 # Credits content
